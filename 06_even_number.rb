@@ -1,8 +1,3 @@
-# Implement question #5 again in Ruby in two ways:
-#     a. Using a loop
-#     b. Using recursion
-#
-#
 
 
 require "benchmark"
