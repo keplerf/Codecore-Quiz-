@@ -9,8 +9,6 @@ module Blog
     end
     attr_accessor :body, :title
 
-
-
   end
 
   class Snippet < Article
