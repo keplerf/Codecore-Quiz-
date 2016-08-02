@@ -1,5 +1,3 @@
-# Stack is "first in last out" data structure
-
 class Stack
   def initialize
     @array = []
