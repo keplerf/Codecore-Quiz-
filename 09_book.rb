@@ -1,11 +1,4 @@
-
-# This should print:
-# Your book: My Awesome Book has 2 chapters:
-# 1. My Awesome Chapter 1
-# 2. My Awesome Chapter 2
-
 class Book
-
   attr_accessor :title, :chapters
 
   def initialize(title="", chapters={})
