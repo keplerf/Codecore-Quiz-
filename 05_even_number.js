@@ -1,4 +1,3 @@
-// Write a function in JavaScript that takes in a number n and returns the first n even numbers
 
 var firstEven = function(num){
 var evenNumbers = [];
